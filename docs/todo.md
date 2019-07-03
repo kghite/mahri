@@ -12,9 +12,19 @@
 - [ ] Print and assemble
 - [ ] Electronics assembly
 
-**Software**
+**Software - Onboard**
 
 - [x] RPi setup
 - [ ] Components interface test
-- [ ] Motion library
-- [ ] First interaction
+- [ ] Motion controller
+- [ ] Lights controller
+- [ ] Sound controller
+- [ ] Stream interface
+- [ ] Offline behavior
+
+**Software - Server**
+
+- [ ] Portal wireframe
+- [ ] Interactions definition
+- [ ] Flask API server setup
+- [ ] Robot controller
