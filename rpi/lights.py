@@ -1,5 +1,5 @@
 """
-Light controller
+Light Controller
 """
 
 import board

@@ -1,5 +1,5 @@
 """
-Camera stream management
+Camera Stream Controller
 """
 
 from picamera.array import PiRGBArray
