@@ -16,7 +16,7 @@ class Servo:
 		self.position = None
 
 		GPIO.setup(pin, GPIO.OUT)
-		self.pwm = GPIO.PWM(pin, 50) 
+		self.pwm = GPIO.PWM(pin, 50)
 	
 	def set(self, angle):
 		duty = angle / 180 + 1
